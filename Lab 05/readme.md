@@ -27,8 +27,7 @@ int main(){
     } else {
         printf( "F" ) ;
     }//end if
-    return 0 ;
-} // end main
+    return 0 ;} // end main
 
 ## ตัวอย่างผลลัพธ์
 
