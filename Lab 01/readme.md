@@ -22,3 +22,7 @@ int main()
     return 0;
 }//end main function
 ```
+
+## ตัวอย่างผลลัพธ์
+
+![](NameAgeee.png)
